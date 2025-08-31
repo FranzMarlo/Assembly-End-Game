@@ -11,3 +11,7 @@ It showcases my skills, and knowledge gained from learning **React.js** from fre
 - Show confetti when the player won the game. 
 
 ---
+
+### Open link to start playing: https://franzmarlo.github.io/Assembly-End-Game/
+
+---
